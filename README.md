@@ -7,7 +7,7 @@ AI SEO Blog & Content Cluster Generator
 Spicy Bite Restaurant Hyderabad
 
 ## Tools Used
-- Google Gemini
+- chatgpt
 - Google Docs
 - GitHub
 
